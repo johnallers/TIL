@@ -8,8 +8,8 @@ _This is a work in progress._
 * Heated up some water for the pan.
 * Arranged the charcoal and wood chips.
 
-![image](./images/thumb_DSC_0535_1024.jpg =500x)
-![image](./images/thumb_DSC_0537_1024.jpg =500x)
+![image](./images/thumb_DSC_0535_1024.jpg =500x333)
+![image](./images/thumb_DSC_0537_1024.jpg =500x333)
 
 ## 0745 Hours - Preheat
 
@@ -17,14 +17,14 @@ _This is a work in progress._
 * Added a pan with hot water.
 * Covered the grill and waited for it to get to a good temperature (225-275 degrees F).
 
-![image](./images/thumb_DSC_0538_1024.jpg =500x)
+![image](./images/thumb_DSC_0538_1024.jpg =500x333)
 
 ## 0807 Hours - Meat on grill
 
 * Put heat shield and ribs on the grill.
 * Grill was around 220 degrees.
 
-![image](./images/thumb_DSC_0543_1024.jpg =500x)
+![image](./images/thumb_DSC_0543_1024.jpg =500x333)
 
 ## 0946 Hours - Too hot!
 
@@ -35,13 +35,13 @@ _This is a work in progress._
 * Checked and basted the ribs.
 * About 85% of the charcoals on the bottom row were already started. Is it burning too fast?
 
-![image](./images/thumb_DSC_0565_1024.jpg =500x)
+![image](./images/thumb_DSC_0565_1024.jpg =500x333)
 
 ## 1615 Hours - Done!
 
-![image](./images/thumb_DSC_0589_1024.jpg =500x)
-![image](./images/thumb_DSC_0582_1024.jpg =500x)
-![image](./images/thumb_DSC_0596_1024.jpg =500x)
+![image](./images/thumb_DSC_0589_1024.jpg =500x333)
+![image](./images/thumb_DSC_0582_1024.jpg =500x333)
+![image](./images/thumb_DSC_0596_1024.jpg =500x333)
 
 ## Lessons Learned / Things to try differently next time
 
