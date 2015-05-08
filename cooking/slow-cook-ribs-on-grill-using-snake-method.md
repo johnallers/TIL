@@ -24,11 +24,11 @@ _This is a work in progress._
 * Put heat shield and ribs on the grill.
 * Grill was around 220 degrees.
 
-![image](./images/thumb_DSC_0543_1024.jpg =500x333)
+<img src="./images/thumb_DSC_0543_1024.jpg" alt="It puts the meat on the grill" width="500" />
 
 ## 0946 Hours - Too hot!
 
-* Grill was at 290 degrees. Close the intake vent to about 25%.
+* Grill was at 290 degrees. Closed the intake vent to about 25%.
 
 ## 1200 Hours - Basting time
 
